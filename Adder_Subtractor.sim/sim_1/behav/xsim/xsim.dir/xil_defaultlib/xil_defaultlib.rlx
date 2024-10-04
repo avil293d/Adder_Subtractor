@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+E:/Verilog/Self/Adder_Subtractor/Adder_Subtractor.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+E:/Verilog/Self/Adder_Subtractor/Adder_Subtractor.srcs/sim_1/new/Adder_Subtractor_tb.v,1728037533,verilog,,,,Adder_Subtractor_tb,,,,,,,,
+E:/Verilog/Self/Adder_Subtractor/Adder_Subtractor.srcs/sources_1/new/Adder_Subtractor.v,1728037295,verilog,,E:/Verilog/lab/full_adder/full_adder.srcs/sources_1/new/FA_struct.v,,Adder_Subtractor,,,,,,,,
+E:/Verilog/lab/full_adder/full_adder.srcs/sources_1/new/FA_struct.v,1724473593,verilog,,E:/Verilog/lab/full_adder/full_adder.srcs/sources_1/new/RCA_4bit_2.v,,FA_struct,,,,,,,,
+E:/Verilog/lab/full_adder/full_adder.srcs/sources_1/new/RCA_4bit_2.v,1727981297,verilog,,E:/Verilog/Self/Adder_Subtractor/Adder_Subtractor.srcs/sim_1/new/Adder_Subtractor_tb.v,,RCA_4bit_2,,,,,,,,
